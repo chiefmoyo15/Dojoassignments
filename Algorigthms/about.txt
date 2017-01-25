@@ -1,0 +1,6 @@
+Algorithgms
+
+functions, Loops, T- table when changing variables
+arrays, 
+
+13 algorithms is the building blocks of programming!

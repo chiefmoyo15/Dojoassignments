@@ -1,0 +1,26 @@
+CSS
+
+inline, internal and external
+
+head --> <link  rel="stylesheet" type="text/css" href="css_1.css">
+
+
+p, div, h1...etc ie p{ color: blue;}
+
+id -----> #[id_name]{font-size: 36px;}
+
+class ---->.[class_name]{background-color: green}
+****************************************************************************************************************
+*                                  !      Very Important     !                                                 *
+*****Google Inspect Element -----> right click on browser and go to inspect. Dont forget the magnifying glass***
+
+Internal weight
+
+Display property and box model
+
+Positioning ---> Static     default
+		 Absoulute  relative to parent
+		 Relative
+		 Fixed      relative to window
+
+Lego concept

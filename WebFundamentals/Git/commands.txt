@@ -1,0 +1,58 @@
+GIT
+
+Version control. - Working in groups. 
+	- 
+Terminal
+
+make folders
+make files
+manuevering into folders
+git initiallise
+stagging area
+all commits need a message
+
+Commands
+cd
+dir
+copy NUL (file name)
+rd
+Creat folder -----------------------> mkdir (folder)
+Delete folder --------------------->  rmdir (folder)
+
+GIT - Version Control 
+
+-create back ups
+-collaborate on projects
+
+mkdir [folder_name------------------------->   Create folder
+ls ---------------------------------------->   list files in local folder
+	- -l ----->shows detailed information
+	- -a ----->shows hidden files. 
+touch [file_name] ------------------------->   Create file
+vim [file_name]---------------------------->   Text editor
+	- i   = insert
+	- :p  = quit without saving
+	- :wp = quit with saving
+-l -a 
+
+git init //start new repo
+git add  //add to the staging area
+git commit -m "message" // leaves a message
+
+git status // check the local status of the repo
+git diff // changes that have been made since the last back up.
+
+git log   //what commits have been made
+git blame //who did this?
+git clone //making a copy of a repo
+git fork //eventually you would merge the changes. Similar to clone but fork, is collaboratively.
+
+git remote add origin //
+
+git push //taking local commited repos and pushing them to Github
+	-git push origin master
+git pull //requesting to merge your branch with the master branch. 
+
+git reset vs revert
+
+git fork

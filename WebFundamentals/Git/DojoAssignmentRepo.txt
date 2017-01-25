@@ -1,0 +1,16 @@
+Cd ..
+Cd DojoAssignments
+git init
+git add .
+git commit -m "first commit of the DojoAssignments"
+git status
+git log
+git remote add origin https://github.com/chiefmoyo15/DojoAassingments.git
+git push -u origin master
+git clear
+git touch readme.md
+git add .
+git commit -m "added readme.md file"
+git status
+git log
+

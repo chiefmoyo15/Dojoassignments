@@ -1,0 +1,328 @@
+*{
+  margin:0px;
+  padding:0px;
+  outline: 1px dotted red;
+  list-style-type: none;
+}
+#wrapper{
+  background-color: rgb(238,238,238);
+}
+#red{
+  color: red;
+  background-color: rgb(238,238,238);
+}
+/*block 3*/
+#goingup1{
+  margin-bottom: 60px;
+  color: red;
+  background-color: rgb(238,238,238);
+}
+/*block 4-12*/
+#goingup2{
+  margin-bottom: 180px;
+  color: red;
+  background-color: rgb(238,238,238);
+}
+/*block 13-17*/
+#goingup3{
+  margin-bottom: 60px;
+  color: red;
+  background-color: rgb(238,238,238);
+}
+.element{
+  display: block;
+  font-weight: bolder;
+  color:#1913A2;
+}
+
+.group_period_num1{
+  display: inline-block;
+  position: relative;
+  width: 60px;
+  vertical-align: bottom;
+  text-align: center;
+}
+.group_period_num1 li{
+  width: 60px;
+  height: 60px;
+  text-align: center;
+  border: 1px solid;
+  margin: 5px;
+  color: red;
+  background-color: rgb(238,238,238);
+}
+.group_period_num2{
+  display: inline-block;
+  position: relative;
+  width: 60px;
+  vertical-align: bottom;
+  text-align: center;
+}
+.group_period_num2 li{
+  width: 60px;
+  height: 60px;
+  border: 1px solid;
+  margin: 5px;
+  text-align: center;
+  background-color: rgb(104, 155, 255);
+}
+.group_period_num3{
+  display: inline-block;
+  position: relative;
+  width: 60px;
+  vertical-align: bottom;
+  text-align: center;
+}
+.group_period_num3 li{
+  width: 60px;
+  height: 60px;
+  border: 1px solid;
+  margin: 5px;
+  text-align: center;
+  background-color: rgb(104, 155, 255);
+}
+.group_period_num4{
+  display: inline-block;
+  position: relative;
+  width: 60px;
+  vertical-align: bottom;
+  text-align: center;
+}
+.group_period_num4 li{
+  width: 60px;
+  height: 60px;
+  border: 1px solid;
+  margin: 5px;
+  text-align: center;
+  background-color: rgb(253, 154, 152);
+
+}
+.group_period_num5{
+  display: inline-block;
+  position: relative;
+  width: 60px;
+  vertical-align: bottom;
+  text-align: center;
+}
+.group_period_num5 li{
+  width: 60px;
+  height: 60px;
+  border: 1px solid;
+  margin: 5px;
+  text-align: center;
+  background-color: rgb(253, 154, 152);
+
+}
+.group_period_num6{
+  display: inline-block;
+  position: relative;
+  width: 60px;
+  vertical-align: bottom;
+  text-align: center;
+}
+.group_period_num6 li{
+  width: 60px;
+  height: 60px;
+  border: 1px solid;
+  margin: 5px;
+  text-align: center;
+  background-color: rgb(253, 154, 152);
+}
+.group_period_num7{
+  display: inline-block;
+  position: relative;
+  width: 60px;
+  vertical-align: bottom;
+  text-align: center;
+}
+.group_period_num7 li{
+  width: 60px;
+  height: 60px;
+  border: 1px solid;
+  margin: 5px;
+  text-align: center;
+  background-color: rgb(253, 154, 152);
+}
+.group_period_num8{
+  display: inline-block;
+  position: relative;
+  width: 60px;
+  vertical-align: bottom;
+  text-align: center;
+}
+.group_period_num8 li{
+  width: 60px;
+  height: 60px;
+  border: 1px solid;
+  margin: 5px;
+  text-align: center;
+  background-color: rgb(253, 154, 152);
+
+}
+.group_period_num9{
+  display: inline-block;
+  position: relative;
+  width: 60px;
+  vertical-align: bottom;
+  text-align: center;
+}
+.group_period_num9 li{
+  width: 60px;
+  height: 60px;
+  border: 1px solid;
+  margin: 5px;
+  text-align: center;
+  background-color: rgb(253, 154, 152);
+
+}
+.group_period_num10{
+  display: inline-block;
+  position: relative;
+  width: 60px;
+  vertical-align: bottom;
+  text-align: center;
+}
+.group_period_num10 li{
+  width: 60px;
+  height: 60px;border: 1px solid;
+  margin: 5px;
+  text-align: center;
+  background-color: rgb(253, 154, 152);
+}
+.group_period_num11{
+  display: inline-block;
+  position: relative;
+  width: 60px;
+  vertical-align: bottom;
+  text-align: center;
+}
+.group_period_num11 li{
+  width: 60px;
+  height: 60px;
+  border: 1px solid;
+  margin: 5px;
+  text-align: center;
+  background-color: rgb(253, 154, 152);
+}
+.group_period_num12{
+  display: inline-block;
+  position: relative;
+  width: 60px;
+  vertical-align: bottom;
+  text-align: center;
+}
+.group_period_num12 li{
+  width: 60px;
+  height: 60px;
+  border: 1px solid;
+  margin: 5px;
+  text-align: center;
+  background-color: rgb(253, 154, 152);
+
+}
+.group_period_num13{
+  display: inline-block;
+  position: relative;
+  width: 60px;
+  vertical-align: bottom;
+  text-align: center;
+}
+.group_period_num13 li{
+  width: 60px;
+  height: 60px;
+  border: 1px solid;
+  margin: 5px;
+  text-align: center;
+  background-color: rgb(253, 154, 152);
+}
+.group_period_num14{
+  display: inline-block;
+  position: relative;
+  width: 60px;
+  vertical-align: bottom;
+  text-align: center;
+}
+.group_period_num14 li{
+  width: 60px;
+  height: 60px;
+  text-align: center;
+  border: 1px solid;
+  margin: 5px;
+  background-color: rgb(254, 203, 0);
+}
+.group_period_num15{
+  display: inline-block;
+  position: relative;
+  width: 60px;
+  vertical-align: bottom;
+  text-align: center;
+}
+.group_period_num15 li{
+  width: 60px;
+  height: 60px;
+  border: 1px solid;
+  margin: 5px;
+  text-align: center;
+  background-color: rgb(254, 203, 0);
+}
+.group_period_num16{
+  display: inline-block;
+  position: relative;
+  width: 60px;
+  vertical-align: bottom;
+  text-align: center;
+}
+.group_period_num16 li{
+  width: 60px;
+  height: 60px;
+  border: 1px solid;
+  margin: 5px;
+  text-align: center;
+  background-color: rgb(254, 203, 0);
+
+}
+.group_period_num17{
+  display: inline-block;
+  position: relative;
+  width: 60px;
+  vertical-align: bottom;
+  text-align: center;
+}
+.group_period_num17 li{
+  width: 60px;
+  height: 60px;
+  border: 1px solid;
+  margin: 5px;
+  text-align: center;
+  background-color: rgb(254, 203, 0);
+}
+.group_period_num18{
+  display: inline-block;
+  position: relative;
+  width: 60px;
+  vertical-align: bottom;
+  text-align: center;
+}
+.group_period_num18 li{
+  width: 60px;
+  height: 60px;
+  border: 1px solid;
+  margin: 5px;
+  text-align: center;
+  background-color: rgb(254, 203, 0);
+}
+.group_period_num19{
+  display: inline-block;
+  position: relative;
+  width: 60px;
+  vertical-align: bottom;
+  text-align: center;
+}
+.group_period_num19 li{
+  width: 60px;
+  height: 60px;
+  border: 1px solid;
+  margin: 5px;
+  text-align: center;
+  background-color: rgb(254, 203, 0);
+}

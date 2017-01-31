@@ -1,0 +1,139 @@
+*{
+  /*outline: 1px dotted red;*/
+  color: white;
+  margin: 0px;
+  padding: 0px;
+}
+.blue{
+  color: #38B0AD;
+}
+#wrapper{
+  width: 970px;
+  position: relative;
+  background-color: #DDDFD4;
+  margin: 30px;
+  padding-bottom: 10px;
+}
+#wrapper p{
+  margin-left: 15px;
+}
+
+#header{
+  background-color: #38B0AD;
+  display: inline-block;
+  position: relative;
+  width: 918px;
+  margin: 20px 20px 0px 20px;
+  padding: 5px;
+}
+.image{
+  width: 37px;
+  height: 37px;
+  position: absolute;
+  margin-left: 10px;
+}
+.heading{
+  margin-left: 55px;
+  color: black;
+}
+#header  h1, ul{
+  display: inline-block;
+  position: relative;
+}
+#header ul li{
+  display: inline-block;
+  position: relative;
+  text-decoration: underline;
+  vertical-align: top;
+}
+#header ul{
+  margin-left: 160px;
+}
+#content{
+  display: inline-block;
+  position: relative;
+  background-color: #FBE691;
+  width: 918px;
+  margin: 20px 0px 0px 20px;
+  padding: 10px 0px 10px 10px;
+}
+.sidebar-left{
+  display: inline-block;
+  position: relative;
+  margin: 5px 0px 0px 15px;
+  width: 200px;
+  padding: 5px;
+  background-color: #153F43;
+}
+ li{
+  margin-left: 10px;
+}
+p{
+  margin-left: 3px;
+  padding: 5px
+}
+h3{
+  argin-left: 3px;
+  padding: 5px
+}
+.content2{
+  display: inline-block;
+  position: relative;
+  width: 650px;
+  vertical-align: top;
+
+}
+
+.sidebar-right-top{
+  display: inline-block;
+  position: relative;
+  list-style-type: none;
+  padding: 5px;
+  }
+.sidebar-right-top li{
+  width: 195px;
+  height: 150px;
+  display: inline-block;
+  position: relative;
+  background-color: #153F43;
+  vertical-align: bottom;
+}
+.sidebar-right-middle{
+  display: inline-block;
+  position: relative;
+  list-style-type: none;
+  padding: 5px;
+  }
+  .sidebar-right-middle li{
+    width: 300px;
+    height: 178px;
+    display: inline-block;
+    position: relative;
+    background-color: #153F43;
+    vertical-align: bottom;
+  }
+.sidebar-right-bottom{
+  list-style-type: none;
+  display: inline-block;
+  position: relative;
+  }
+  .sidebar-right-bottom li{
+    width: 605px;
+    height: 178px;
+    display: inline-block;
+    position: relative;
+    background-color: #153F43;
+    vertical-align: bottom;
+    padding: 5px;
+    margin: 5px 0px 0px 15px;
+
+  }
+.footer{
+  background-color: #38B0AD;
+  display: block;
+  position: relative;
+  margin: 20px;
+  text-align: center;
+  padding: 20px;
+  color: black;
+}

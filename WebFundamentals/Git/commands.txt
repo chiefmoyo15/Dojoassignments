@@ -26,14 +26,12 @@ GIT - Version Control
 
 mkdir [folder_name------------------------->   Create folder
 ls ---------------------------------------->   list files in local folder
-	- -l ----->shows detailed information
-	- -a ----->shows hidden files. 
 touch [file_name] ------------------------->   Create file
 vim [file_name]---------------------------->   Text editor
 	- i   = insert
 	- :p  = quit without saving
 	- :wp = quit with saving
--l -a 
+
 
 git init //start new repo
 git add  //add to the staging area
@@ -56,3 +54,6 @@ git pull //requesting to merge your branch with the master branch.
 git reset vs revert
 
 git fork
+
+git remote add origin https://github.com/chiefmoyo15/DojoAassingments.git
+git push -u origin master

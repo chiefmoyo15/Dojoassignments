@@ -1,0 +1,171 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+#wrapper{
+  width: 970px;
+  background-color: rgb(38, 81, 117);
+}
+#header{
+
+}
+#header img{
+  display: inline-block;
+  width:420px;
+}
+#header a{
+  color: rgb(212, 178, 0);
+}
+#header p{
+  display: inline-block;
+  position: absolute;
+  color: white;
+  padding: 10px;
+  margin: 5px 0px 0px 330px;
+
+}
+#header .searchbox{
+  display: inline-block;
+  background-color: rgb(68, 68, 68);
+  padding:13px;
+  position: absolute;
+  margin: 40px 0px 0px 270px;
+  border-radius: 15px;
+  vertical-align: middle;
+}
+#header button{
+  padding: 8px ;
+  text-align:center;
+  border: 1px solid rgb(192, 192, 192);
+  background: rgb(38, 81, 117);
+}
+#header input, button{
+  padding: 8px;
+  text-align:center;
+}
+#navigation {
+  position: relative;
+  background: rgb(60, 120, 171);
+  margin: 0px 80px 0px 80px;
+  border-radius: 10px;
+  box-shadow: 3px 3px 3px #000000;
+}
+#navigation ul{
+  width: 100%;
+}
+#navigation ul li{
+  display: inline-block;
+  background: rgb(60, 120, 171);
+  position: relative;
+  padding: 10px;
+  color: white;
+  border-radius: 10px;
+  box-shadow: 10px;
+  margin-left: 50px;
+}
+#top-selection{
+  display: block;
+
+}
+ .top-left{
+  display: inline-block;
+  position: relative;
+  text-align: center;
+}
+.top-left ul{
+ margin: 14px 0px 0px 150px;
+
+}
+.top-left ul li{
+ list-style-type: circle;
+ text-align: : center;
+ text-decoration: underline;
+ padding: 5px;
+}
+.top-right{
+  display: inline-block;
+  position: relative;
+  padding: 10px;
+  margin-top: 10px;
+  vertical-align: top;
+}
+ .size1 p{
+  text-align: center;
+  width: 550px;
+  margin-left: 5px 0px 0px 30px;
+  padding: 5px;
+  vertical-align: top;
+  word-wrap: break-word;
+}
+.size1{
+  font-size: 90%;
+
+}
+#size2 {
+  display: inline-block;
+  width: 400px;
+  text-align: center;
+  font-style: italic;
+  font-size: 140%;
+  margin-left: 65px;
+}
+.size3 {
+  text-align: center;
+  font-size: 120%;
+}
+.yellow{
+  color: rgb(255, 211, 67);
+}
+#bottom-section{
+  position: relative;
+  margin: 10px 95px 10px 0px;
+  background-color: white;
+  color: black;
+  width: 970px;
+}
+
+.bottom-left {
+  display: inline-block;
+  position: relative;
+  width: 300px;
+  margin-left: 100px;
+  vertical-align: top;
+  color: black;
+}
+.bottom-right{
+  display: inline-block;
+  position: relative;
+  margin-left: 100px;
+  width: 300px;
+}
+#bottom-section h4{
+  border-top: 4px solid #91BADE;
+  padding:  10px;
+  margin-top: 10px;
+  text-align: center;
+}
+#bottom-section p{
+  text-align: center;
+}
+#bottom-section ul li{
+  text-align: center;
+
+}
+.blue{
+  color: #2B6291;
+}
+footer p{
+  text-align: center;
+  margin: 5px;
+}
+footer ul li{
+  display: inline-block;
+  position: relative;
+  padding: 40px;
+  margin-left: 40px;
+  list-style-type: none;
+}
+
+.white{
+  color: white;
+}

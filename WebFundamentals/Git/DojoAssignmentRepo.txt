@@ -5,7 +5,7 @@ git add .
 git commit -m "first commit of the DojoAssignments"
 git status
 git log
-git remote add origin https://github.com/chiefmoyo15/DojoAassingments.git
+git remote add origin https://github.com/chiefmoyo15/dojoassignments.git
 git push -u origin master
 git clear
 git touch readme.md

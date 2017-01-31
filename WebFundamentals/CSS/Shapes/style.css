@@ -1,0 +1,17 @@
+*{
+  margin: 0px;
+  padding 0px;
+}
+#square {
+  width: 140px;
+  height: 140px;
+  background: blue;
+}
+#circle {
+   width: 140px;
+   height: 140px;
+   background: blue;
+   -moz-border-radius: 70px;
+   -webkit-border-radius: 70px;
+   border-radius: 70px;
+}

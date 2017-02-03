@@ -1,0 +1,41 @@
+*{
+  margin: 0px auto;
+  padding: 0px;
+  outline: 1px dotted red;
+}
+#wrapper{
+  width: 970px;
+  padding: 10px;
+  margin: 0px auto;
+  background: rgba(235,233,249,1);
+}
+#content{
+  padding: 10px;
+  margin: 10px;
+}
+header{
+  padding: 10px;
+  background: rgba(16,76,132,1);
+}
+#content img{
+  margin: 10px;
+}
+img{
+  width: 200px;
+}
+button{
+  padding: 10px;
+  background: rgba(16,76,132,1);
+  border-radius: 15px;
+  border: 1px solid grey;
+}
+footer{
+  width: 90px;
+}
+footer button{
+  text-align: center;
+  display: inline;
+  width: 70px;
+  margin: 10px;
+  margin: left
+}

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My jQuery basic assignmeent!</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <script type="text/javascript" src="javascript.js"></script>
+
+  </head>
+  <body>
+    <div id="wrapper">
+      <h1 class="title">JQUERY</h1>
+      <h2 class="heading">Click on left Side Bar</h2>
+      <div id="nav">
+        <ul>
+          <li class="listItem1">Hide OR show</li>
+          <li class="listItem2">Toggle</li>
+          <li class="listItem3">Slide Down</li>
+          <li class="listItem4">Slide Toggle</li>
+          <li class="listItem5">Fade</li>
+          <li class="listItem6">Add Class</li>
+          <li class="listItem7">Append</li>
+          <li class="listItem8">Val</li>
+        </ul>
+      </div>
+      <div id="content">
+        <div id="hideShow" class="container">
+          <h2>.show() and .hide()</h2>
+          <p><b>Description: Display the matched elements.</b></p>
+          <p>$('attrName').show();</p>
+          <p>$('attrName').hide();</p>
+          <button class="hide" type="button" name="button">Clear</button>
+        </div>
+        <div id="toggleShow" class="container">
+          <h2>.toggle()</h2>
+          <p><b>Description: Display or hide the matched elements.</b></p>
+          <p>$('attrName').toggle();</p>
+          <p>Click on the button below to toggle</p>
+          <img class="imgToggle"src="harddrive.jpg" alt="hard drive">
+          <button class="imageToggle" type="button" name="button">Toggle</button>
+          <button class="hide" type="button" name="button">Clear</button>
+        </div>
+        <div id="slideDownShow" class="container">
+          <h2>.slideDown()</h2>
+          <p><b>Description: Display the matched elements with a sliding motion.</b></p>
+          <p>$('attrName').show();</p>
+          <p>$('attrName').hide();</p>
+          <img class="imgSlideDown"src="python.png" alt="hard drive">
+          <button class="slideDownToggle" type="button" name="button">Slide Down</button>
+          <button class="hide" type="button" name="button">Clear</button>
+        </div>
+        <div id="slideUpShow" class="container">
+          <h2>.slideUp()</h2>
+          <p><b>Description: Display the matched elements with a sliding motion.</b></p>
+          <p>$('attrName').slideUp();</p>
+          <p>$('attrName').hide();</p>
+          <img class="imgToggle2"src="python.png" alt="hard drive">
+          <button class="slideUpToggle" type="button" name="button">Slide Toggle</button>
+          <button class="hide" type="button" name="button">Clear</button>
+        </div>
+        <div id="fade" class="container">
+          <h2>.fadeIn() and fadeOut()</h2>
+          <p><b>Description: Display the matched elements by fading them to opaque.</b></p>
+          <p>$('attrName').fadeIn();</p>
+          <p>$('attrName').fadeOut();</p>
+          <p class="textToFade">Let us try to attempt to fade this simple text. shall we? cike the buttons below</p>
+          <button class="fadeIn" type="button" name="button">Fade IN</button>
+          <button class="fadeOut" type="button" name="button">Fade Out</button>
+          <button class="hide" type="button" name="button">Clear</button>
+        </div>
+        <div id="addClassShow" class="container">
+          <h2>.addClass()</h2>
+          <p><b>Description: Adds the specified class(es) to each element in the set of matched elements.</b></p>
+          <p>$('elementName').addClass('className');</p>
+          <p>Click on the button on the button below to change the background class.</p>
+          <button class="addClass" type="button" name="button">Add Class</button>
+          <button class="hide" type="button" name="button">Clear</button>
+        </div>
+        <div id="appendShow" class="container">
+          <h2>.append()</h2>
+          <p><b>Description: Insert content, specified by the parameter, to the end of each element in the set of matched elements.</b></p>
+          <p>$('elementName').addClass('className');</p>
+          <p class="tTaP">Click on the button on the button below to add the heading to this line. .</p>
+          <button class="append" type="button" name="button">Append Heading</button>
+          <button class="hide" type="button" name="button">Clear</button>
+        </div>
+        <div id="valShow" class="container">
+          <h2>.value()</h2>
+          <p><b>Description: Get the current value of the first element in the set of matched elements.</b></p>
+          <p>$('elementName').addClass('className');</p>
+          <p class="tTaP8">Click the button to see what value you changed.</p>
+          <input type="radio" name="Value1" value="Value1">value1
+          <input type="radio" name="Value2" value="Value1">value2
+          <button class="val" type="button" name="button">Val</button>
+          <button class="hide" type="button" name="button">Clear</button>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

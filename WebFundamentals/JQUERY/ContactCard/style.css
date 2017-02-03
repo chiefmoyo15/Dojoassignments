@@ -1,0 +1,57 @@
+*{
+  outline: 1px dotted red;
+}
+#wrapper{
+  margin: 0px auto;
+
+}
+.leftColumn{
+  display: inline-block;
+  width: 253px;
+  position: relative;
+  padding: 30px;
+  margin-top: 20px;
+  text-align: right;
+}
+.rightColumn{
+  display: inline-block;
+  position: relative;
+  vertical-align:top;
+  margin-top: 20px;
+  visibility: none;
+}
+.rightColumn h1,h4{
+  padding: 10px;
+  display: block;
+}
+#cards1{
+  display: inline-block;
+  position: relative;
+  vertical-align:top;
+  margin-top: 20px;
+  visibility: none;
+  width: 200px;
+  height: 165px;
+}
+#cards1 h1,h4{
+  padding: 10px;
+  display: block;
+  position: relative;
+}
+.cards{
+  display: inline-block;
+  position: relative;
+  vertical-align:top;
+  margin-top: 20px;
+  visibility: none;
+  width: 200px;
+  height: 165px;
+}
+.cards h1,h4{
+  padding: 10px;
+  display: block;
+  position: relative;
+}
+#info{
+  display: none;
+}

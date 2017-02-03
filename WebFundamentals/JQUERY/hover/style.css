@@ -1,0 +1,18 @@
+#right_content img{
+  display:inline-block;
+  position: absolute;
+  width: 200px;
+  height: 150px;
+}
+h1{
+  display: inline-block;
+  background: red;
+  width: 460px;
+}
+.imgTwo{
+  margin-left: 230px;
+}
+
+#wrapper{
+  margin-left: 400px;
+}

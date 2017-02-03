@@ -1,0 +1,28 @@
+*{
+  margin: 0px auto;
+  padding: 0px;
+  outline: 1px dotted red;
+}
+#wrapper{
+  width: 970px;
+  padding: 10px;
+  height: 550px;
+  margin: 0px auto;
+  background: rgba(235,233,249,1);
+}
+#images{
+  width:200px;
+  display: inline;
+  position: absolute;
+}
+header{
+  padding: 10px;
+  background: rgba(16,76,132,1);
+}
+#content img{
+  margin: 10px;
+}
+img{
+  width: 200px;
+  display: absolute;
+}
